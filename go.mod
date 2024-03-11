@@ -24,6 +24,7 @@ replace (
 	github.com/prometheus/common => github.com/prometheus/common v0.45.0
 	github.com/quic-go/qtls-go1-20 => github.com/quic-go/qtls-go1-20 v0.3.3
 	github.com/quic-go/quic-go => github.com/quic-go/quic-go v0.38.2
+	github.com/rancher/dynamiclistener => github.com/serialt/dynamiclistener v0.3.6-100
 	github.com/rancher/wrangler => github.com/rancher/wrangler v1.1.1-0.20230818201331-3604a6be798d
 	github.com/ugorji/go => github.com/ugorji/go v1.2.11
 	github.com/xenitab/spegel => github.com/k3s-io/spegel v0.0.18-k3s4

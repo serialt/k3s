@@ -1423,8 +1423,6 @@ github.com/quic-go/quic-go v0.38.2 h1:VWv/6gxIoB8hROQJhx1JEyiegsUQ+zMN3em3kynTGd
 github.com/quic-go/quic-go v0.38.2/go.mod h1:ijnZM7JsFIkp4cRyjxJNIzdSfCLmUMg9wdyhGmg+SN4=
 github.com/quic-go/webtransport-go v0.5.3 h1:5XMlzemqB4qmOlgIus5zB45AcZ2kCgCy2EptUrfOPWU=
 github.com/quic-go/webtransport-go v0.5.3/go.mod h1:OhmmgJIzTTqXK5xvtuX0oBpLV2GkLWNDA+UeTGJXErU=
-github.com/rancher/dynamiclistener v0.3.6 h1:iAFWeiFNra6tYlt4k+jINrK3hOxZ8mjW2S/9nA6sxKs=
-github.com/rancher/dynamiclistener v0.3.6/go.mod h1:VqBaJNi+bZmre0+gi+2Jb6jbn7ovHzRueW+M7QhVKsk=
 github.com/rancher/lasso v0.0.0-20230830164424-d684fdeb6f29 h1:+kige/h8/LnzWgPjB5NUIHz/pWiW/lFpqcTUkN5uulY=
 github.com/rancher/lasso v0.0.0-20230830164424-d684fdeb6f29/go.mod h1:kgk9kJVMj9FIrrXU0iyM6u/9Je4bEjPImqswkTVaKsQ=
 github.com/rancher/remotedialer v0.3.0 h1:y1EO8JCsgZo0RcqTUp6U8FXcBAv27R+TLnWRcpvX1sM=
@@ -1468,6 +1466,8 @@ github.com/seccomp/libseccomp-golang v0.10.0/go.mod h1:JA8cRccbGaA1s33RQf7Y1+q9g
 github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
 github.com/sergi/go-diff v1.1.0 h1:we8PVUC3FE2uYfodKH/nBHMSetSfHDR6scGdBi+erh0=
 github.com/sergi/go-diff v1.1.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
+github.com/serialt/dynamiclistener v0.3.6-100 h1:MH5Tt104IMufoismuaArMEnYzBroddTosxB36Dgtd/Q=
+github.com/serialt/dynamiclistener v0.3.6-100/go.mod h1:VqBaJNi+bZmre0+gi+2Jb6jbn7ovHzRueW+M7QhVKsk=
 github.com/shengdoushi/base58 v1.0.0 h1:tGe4o6TmdXFJWoI31VoSWvuaKxf0Px3gqa3sUWhAxBs=
 github.com/shengdoushi/base58 v1.0.0/go.mod h1:m5uIILfzcKMw6238iWAhP4l3s5+uXyF3+bJKUNhAL9I=
 github.com/shurcooL/component v0.0.0-20170202220835-f88ec8f54cc4/go.mod h1:XhFIlyj5a1fBNx5aJTbKoIq0mNaPvOagO+HjB3EtxrY=
